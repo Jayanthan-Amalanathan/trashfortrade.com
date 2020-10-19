@@ -337,6 +337,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media (max-width: 990px) {
+  #nav-menu-container {
+    display: none;
+  }
+}
+
 
 
 /* Nav Meu Styling */
@@ -431,7 +437,7 @@ padding-top: 2px;
   color: #5b8c2a;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 990px) {
   #mobile-nav-toggle {
     display: inline;
   }
@@ -546,60 +552,6 @@ section {
   text-align: center;
   color: #999;
 }
-
-/*--------------------------------------------------------------
-# Breadcrumbs
---------------------------------------------------------------*/
-/*.breadcrumbs {
-  padding: 20px 0;
-  background-color: whitesmoke;
-  min-height: 40px;
-  margin-top: 92px;
-}
-
-.breadcrumbs h2 {
-  font-size: 24px;
-  font-weight: 300;
-  margin: 0;
-}
-
-@media (max-width: 992px) {
-  .breadcrumbs h2 {
-    margin: 0 0 10px 0;
-  }
-}
-
-.breadcrumbs ol {
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  font-size: 14px;
-}
-
-.breadcrumbs ol li + li {
-  padding-left: 10px;
-}
-
-.breadcrumbs ol li + li::before {
-  display: inline-block;
-  padding-right: 10px;
-  color: #6c757d;
-  content: "/";
-}
-
-@media (max-width: 768px) {
-  .breadcrumbs .d-flex {
-    display: block !important;
-  }
-  .breadcrumbs ol {
-    display: block;
-  }
-  .breadcrumbs ol li {
-    display: inline-block;
-  }
-}*/
 
 /* About Us Section
 --------------------------------*/
@@ -829,338 +781,248 @@ section {
   border: 2px solid #5b8c2a;
 }*/
 
-/* Team Section
---------------------------------*/
+/*--------------------------------------------------------------
+# Team
+--------------------------------------------------------------*/
 #team {
   background: #fff;
   padding: 110px 0 40px 0;
 }
 
-#team .member {
-  text-align: center;
+.team .member {
   margin-bottom: 20px;
-}
-
-#team .member .pic {
-  margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 
-#team .member .pic img {
-  max-width: 100%;
+.team .member .member-img {
+  position: relative;
+  overflow: hidden;
 }
 
-#team .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
+.team .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
 }
 
-#team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
+.team .member .social a {
+  transition: color 0.3s;
+  color: #124265;
+  margin: 0 10px;
+  padding-top: 8px;
+  display: inline-block;
 }
 
-#team .member .social {
-  margin-top: 15px;
+.team .member .social a:hover {
+  color: #2487ce;
 }
 
-#team .member .social a {
-  color: #fff;
-}
-
-#team .member .social a:hover {
-  color: #5b8c2a;
-}
-
-#team .member .social i {
+.team .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
 
-#team .member .member-info {
-  opacity: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-  transition: 0.2s;
+.team .member .member-info {
+  padding: 25px 15px;
 }
 
-#team .member .member-info-content {
-  margin-top: -50px;
-  transition: margin 0.2s;
+.team .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #124265;
 }
 
-#team .member:hover .member-info {
-  background: rgba(0, 0, 0, 0.6);
+.team .member .member-info span {
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  color: #aaaaaa;
+}
+
+.team .member .member-info p {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 26px;
+  color: #777777;
+  font-family: "Lora";
+}
+
+.team .member:hover .social {
   opacity: 1;
-  transition: 0.4s;
-  color: #fff;
 }
 
-#team .member:hover .member-info-content {
-  margin-top: 0;
-  transition: margin 0.4s;
-}
-
-/*supporters
-------------------------------*/
+/*--------------------------------------------------------------
+# Supporters
+--------------------------------------------------------------*/
 #supporters {
   background: #fff;
-  padding: 60px 0 40px 0;
+  padding: 60px 0 60px 0;
 }
 
-#supporters .member {
-  text-align: center;
+.supporters .member {
   margin-bottom: 20px;
-}
-
-#supporters .member .pic {
-  margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 
-#supporters .member .pic img {
-  max-width: 100%;
+.supporters .member .member-img {
+  position: relative;
+  overflow: hidden;
 }
 
-#supporters .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
+.supporters .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
 }
 
-#supporters .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
+.supporters .member .social a {
+  transition: color 0.3s;
+  color: #124265;
+  margin: 0 10px;
+  padding-top: 8px;
+  display: inline-block;
 }
 
-#supporters .member .social {
-  margin-top: 15px;
+.supporters .member .social a:hover {
+  color: #2487ce;
 }
 
-#supporters .member .social a {
-  color: #fff;
-}
-
-#supporters .member .social a:hover {
-  color: #5b8c2a;
-}
-
-#supporters .member .social i {
+.supporters .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
 
-#supporters .member .member-info {
-  opacity: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-  transition: 0.2s;
+.supporters .member .member-info {
+  padding: 25px 15px;
 }
 
-#supporters .member .member-info-content {
-  margin-top: -50px;
-  transition: margin 0.2s;
+.supporters .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #124265;
 }
 
-#supporters .member:hover .member-info {
-  background: rgba(0, 0, 0, 0.6);
+.supporters .member .member-info span {
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  color: #aaaaaa;
+}
+
+.supporters .member .member-info p {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 26px;
+  color: #777777;
+  font-family: "Lora";
+}
+
+.supporters .member:hover .social {
   opacity: 1;
-  transition: 0.4s;
-  color: #fff;
 }
 
-#supporters .member:hover .member-info-content {
-  margin-top: 0;
-  transition: margin 0.4s;
-}
-
-/*Partners Sections
---------------------------------*/
+/*--------------------------------------------------------------
+# Partners
+--------------------------------------------------------------*/
 #partners {
   background: #fff;
-  padding: 60px 0 40px 0;
+  padding: 60px 0 60px 0;
 }
 
-#partners .member {
-  text-align: center;
+.partners .member {
   margin-bottom: 20px;
-}
-
-#partners .member .pic {
-  margin-bottom: 15px;
   overflow: hidden;
-  height: 260px;
-}
-
-#partners .member .pic img {
-  max-width: 100%;
-}
-
-#partners .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
-}
-
-#partners .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-}
-
-#partners .member .social {
-  margin-top: 15px;
-}
-
-#partners .member .social a {
-  color: #fff;
-}
-
-#partners .member .social a:hover {
-  color: #5b8c2a;
-}
-
-#partners .member .social i {
-  font-size: 18px;
-  margin: 0 2px;
-}
-
-#partners .member .member-info {
-  opacity: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-  transition: 0.2s;
-}
-
-#partners .member .member-info-content {
-  margin-top: -50px;
-  transition: margin 0.2s;
-}
-
-#partners .member:hover .member-info {
-  background: rgba(0, 0, 0, 0.6);
-  opacity: 1;
-  transition: 0.4s;
-  color: #fff;
-}
-
-#partners .member:hover .member-info-content {
-  margin-top: 0;
-  transition: margin 0.4s;
-}
-
-/* Team Section
---------------------------------*/
-/*#team {
-  background: #fff;
-  padding: 110px 0 40px 0;
-}
-
-#team .member {
   text-align: center;
-  margin-bottom: 50px;
-  background: #000;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.partners .member .member-img {
   position: relative;
-  height: 200px;
-  width: 200px;
-  margin-left: 70px;
+  overflow: hidden;
 }
 
-#team .member .member-info {
-  opacity: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.partners .member .social {
   position: absolute;
-  bottom: 0;
-  top: 0;
   left: 0;
+  bottom: 0;
   right: 0;
-  transition: 0.2s;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
 }
 
-#team .member .member-info-content {
-  margin-top: -50px;
-  transition: margin 0.2s;
+.partners .member .social a {
+  transition: color 0.3s;
+  color: #124265;
+  margin: 0 10px;
+  padding-top: 8px;
+  display: inline-block;
 }
 
-#team .member:hover .member-info {
-  background: rgba(0, 0, 0, 0.7);
-  opacity: 1;
-  transition: 0.4s;
+.partners .member .social a:hover {
+  color: #2487ce;
 }
 
-#team .member:hover .member-info-content {
-  margin-top: 0;
-  transition: margin 0.4s;
-}
-
-#team .member h4 {
-  font-weight: 700;
-  margin-bottom: 2px;
-  font-size: 18px;
-  color: #fff;
-}
-
-#team .member span {
-  font-style: italic;
-  display: block;
-  font-size: 13px;
-  color: #fff;
-}
-
-#team .member .social {
-  margin-top: 15px;
-}
-
-#team .member .social a {
-  transition: none;
-  color: #fff;
-}
-
-#team .member .social a:hover {
-  color: #2a475e;
-}
-
-#team .member .social i {
+.partners .member .social i {
   font-size: 18px;
   margin: 0 2px;
 }
 
-@media (max-width:900px){
-#team .member{
-  margin-left: 40px;
-}
+.partners .member .member-info {
+  padding: 25px 15px;
 }
 
-@media (max-width:608px){
-#team .member{
-  margin-left: 125px;
+.partners .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #124265;
 }
-}*/
+
+.partners .member .member-info span {
+  display: block;
+  font-size: 13px;
+  font-weight: 400;
+  color: #aaaaaa;
+}
+
+.partners .member .member-info p {
+  font-style: italic;
+  font-size: 14px;
+  line-height: 26px;
+  color: #777777;
+  font-family: "Lora";
+}
+
+.partners .member:hover .social {
+  opacity: 1;
+}
 
 /*blog
 ------------------------------*/
@@ -1184,9 +1046,152 @@ section {
   font-weight: 700;
 }
 
+/*--------------------------------------------------------------
+# Contact
+--------------------------------------------------------------*/
+#contact {
+  background: #fff;
+  padding: 60px 0 60px 0;
+}
+
+.contact .info-box {
+  color: #444444;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 20px 0 30px 0;
+  background: #fff;
+}
+
+.contact .info-box i {
+  font-size: 32px;
+  color: #5c8b2a;
+  border-radius: 50%;
+  padding: 8px;
+}
+
+.contact .info-box h3 {
+  font-size: 20px;
+  color: #5c8b2a;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.contact .info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.contact .php-email-form {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 30px;
+  background: #fff;
+}
+
+.contact .php-email-form .validate {
+  display: none;
+  color: red;
+  margin: 0 0 15px 0;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.contact .php-email-form .error-message {
+  display: none;
+  color: #fff;
+  background: #ed3c0d;
+  text-align: left;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .error-message br + br {
+  margin-top: 25px;
+}
+
+.contact .php-email-form .sent-message {
+  display: none;
+  color: #fff;
+  background: #18d26e;
+  text-align: center;
+  padding: 15px;
+  font-weight: 600;
+}
+
+.contact .php-email-form .loading {
+  display: none;
+  background: #fff;
+  text-align: center;
+  padding: 15px;
+}
+
+.contact .php-email-form .loading:before {
+  content: "";
+  display: inline-block;
+  border-radius: 50%;
+  width: 24px;
+  height: 24px;
+  margin: 0 10px -6px 0;
+  border: 3px solid #18d26e;
+  border-top-color: #eee;
+  -webkit-animation: animate-loading 1s linear infinite;
+  animation: animate-loading 1s linear infinite;
+}
+
+.contact .php-email-form input, .contact .php-email-form textarea {
+  border-radius: 5px;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
+  border-color: #5846f9;
+}
+
+.contact .php-email-form input {
+  padding: 20px 15px;
+}
+
+.contact .php-email-form textarea {
+  padding: 12px 15px;
+}
+
+.contact .php-email-form button[type="submit"] {
+  background: #5c8b2a;
+  border: 0;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 5px;
+}
+
+.contact .php-email-form button[type="submit"]:hover {
+  background: #fff;
+  color: #5c8b2a;
+}
+
+@-webkit-keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
 /* Contact Section
 --------------------------------*/
-#contact {
+/*#contact {
   background: #f7f7f7;
   padding: 60px 0 10px 0;
 }
@@ -1330,7 +1335,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+}*/
 
 /*--------------------------------------------------------------
 # Footer
