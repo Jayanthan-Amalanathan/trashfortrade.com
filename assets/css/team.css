@@ -1,0 +1,292 @@
+/*--------------------------------------------------------------
+# Team
+--------------------------------------------------------------*/
+#team .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#supporters .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#project-partners .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#partners .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#network-partners .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#team {
+  background: #fff;
+  padding: 120px 0 20px 0;
+}
+
+.team .member {
+  margin-bottom: 60px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.team .member .member-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.team .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.team .member .social a {
+  transition: color 0.3s;
+  color: #fff;
+  margin: 0 10px;
+  margin-top: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-color: #5c8b2a;
+}
+
+.team .member .social a:hover {
+  color: #5c8b2a;
+  background: #fff;
+}
+
+.team .member .social i {
+  font-size: 18px;
+  padding-top: 6px;
+}
+
+.team .member .member-info {
+  padding: 25px 15px;
+}
+
+.team .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #5c8b2a;
+}
+
+.team .member .member-info span {
+  display: block;
+font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+}
+
+.team .member:hover .social {
+  opacity: 1;
+}
+
+/*--------------------------------------------------------------
+# Supporters
+--------------------------------------------------------------*/
+#supporters {
+  background: #fff;
+  padding: 60px 0 40px 0;
+}
+
+.supporters .member {
+  margin-bottom: 80px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.supporters .member .member-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.supporters .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.supporters .member .social a {
+  transition: color 0.3s;
+  color: #fff;
+  margin: 0 10px;
+  margin-top: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-color: #5c8b2a;
+}
+
+.supporters .member .social a:hover {
+  color: #5c8b2a;
+  background: #fff;
+}
+
+.supporters .member .social i {
+  font-size: 18px;
+  padding-top: 6px;
+}
+
+.supporters .member .member-info {
+  padding: 25px 15px;
+}
+
+.supporters .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #5c8b2a;
+}
+
+.supporters .member .member-info span {
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+}
+
+.supporters .member:hover .social {
+  opacity: 1;
+}
+
+/*--------------------------------------------------------------
+# Partners
+--------------------------------------------------------------*/
+#partners {
+  background: #fff;
+  padding: 60px 0 60px 0;
+}
+
+.partners .member {
+  margin-bottom: 20px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.partners .member .member-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.partners .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.partners .member .social a {
+  transition: color 0.3s;
+  color: #fff;
+  margin: 0 10px;
+  margin-top: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-color: #5c8b2a;
+}
+
+.partners .member .social a:hover {
+  color: #5c8b2a;
+  background: #fff;
+}
+
+.partners .member .social i {
+  font-size: 18px;
+  padding-top: 6px;
+}
+
+.partners .member .member-info {
+  padding: 25px 15px;
+}
+
+.partners .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #5c8b2a;
+}
+
+.partners .member .member-info span {
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+}
+
+.partners .member:hover .social {
+  opacity: 1;
+}
+
+/*----------Project Partners----------*/
+#project-partners {
+  background: #fff;
+  padding: 30px 0 60px 0;
+}
+
+/*----------Network Partners----------*/
+#network-partners {
+  background: #fff;
+  padding: 30px 0 60px 0;
+}
