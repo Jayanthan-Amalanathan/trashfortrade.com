@@ -66,7 +66,7 @@
 .contact .php-email-form .sent-message {
   display: none;
   color: #fff;
-  background: #18d26e;
+  background: #5c8b2a;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -86,7 +86,7 @@
   width: 24px;
   height: 24px;
   margin: 0 10px -6px 0;
-  border: 3px solid #18d26e;
+  border: 3px solid #5c8b2a;
   border-top-color: #eee;
   -webkit-animation: animate-loading 1s linear infinite;
   animation: animate-loading 1s linear infinite;
@@ -99,7 +99,7 @@
 }
 
 .contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
-  border-color: #5846f9;
+  border-color: #5c8b2a;
 }
 
 .contact .php-email-form input {
