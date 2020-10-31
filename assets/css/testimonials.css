@@ -2,16 +2,27 @@
 # Testimonials
 --------------------------------------------------------------*/
 .testimonials {
-  padding: 60px 0;
+  padding: 30px 10px;
   background-color: #eee;
   background-position: center center;
   background-size: cover;
   position: relative;
+  font-family: "Lora";
+}
+
+.testimonials .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 20px;
 }
 
 
 .testimonials .section-header {
-  margin-bottom: 40px;
+  margin-bottom: 0;
 }
 
 .testimonials .testimonial-item {
@@ -20,7 +31,7 @@
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 100px;
+  width: 130px;
   border-radius: 50%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
@@ -29,18 +40,19 @@
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: 700;
-  margin: 10px 0 5px 0;
+  margin: 10px 0 3px 0;
   color: #111;
 }
 
 .testimonials .testimonial-item h4 {
   font-size: 14px;
   color: #666666;
-  margin: 0 0 15px 0;
+  margin: 0 0 10px 0;
+  font-family: "Lora";
 }
 
 .testimonials .testimonial-item .quote-icon-left, .testimonials .testimonial-item .quote-icon-right {
-  color: rgba(255, 255, 255, 0.4);
+  color: #5c8b2a;
   font-size: 26px;
 }
 
@@ -58,10 +70,10 @@
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
   font-size: 14px;
-  margin: 0 auto 15px auto;
+  margin: 0 auto 10px auto;
   color: #666666;
+  font-family: "Lora";
 }
 
 .testimonials .owl-nav, .testimonials .owl-dots {
@@ -75,11 +87,11 @@
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.4) !important;
+  background-color: rgb(255, 255, 255) !important;
 }
 
 .testimonials .owl-dot.active {
-  background-color: #49b5e7 !important;
+  background-color: #5c8b2a !important;
 }
 
 @media (min-width: 1024px) {
