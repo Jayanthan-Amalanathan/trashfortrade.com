@@ -17,11 +17,7 @@
   color: #666666;
 }
 
-#about .member .pic img {
-  max-width: 100%;
-}
-
-#about .about-container img
+#about .about-container .order-1 img
 {
   max-width: 100%;
   height: auto;
@@ -52,6 +48,7 @@
 
 #about .about-container .icon-box img{
   padding-bottom: 10px;
+  max-width: 100%;
 }
 
 #about .about-container .icon-box .row{
@@ -80,6 +77,16 @@
   line-height: 24px;
   font-size: 14px;
   color: #666666;
+}
+
+@media (max-width: 768px){
+  #about .about-container .icon-box img{
+  padding-bottom: 10px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 }
 
 /* Facts Section
