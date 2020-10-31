@@ -68,6 +68,8 @@
 .team .member .member-img {
   position: relative;
   overflow: hidden;
+  max-width: 100%;
+  height: auto;
 }
 
 .team .member .social {
@@ -123,6 +125,15 @@ font-size: 14px;
 
 .team .member:hover .social {
   opacity: 1;
+}
+
+@media (max-width: 768px){
+  .team .member{
+  max-width: 100%;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: block;
+}
 }
 
 /*--------------------------------------------------------------
