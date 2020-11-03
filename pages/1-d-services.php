@@ -9,7 +9,7 @@
 
         <div class="col-lg-4 col-md-6 services-item filter-app">
           <div class="services-wrap">
-            <img src="media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
+            <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
             <div class="services-info">
               <p>App AppApp App App App App AppAppAppAppAppApp AppAppAppApp</p>
             </div>
@@ -19,7 +19,7 @@
 
         <div class="col-lg-4 col-md-6 services-item filter-web">
           <div class="services-wrap">
-            <img src="media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
+            <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
             <div class="services-info">
               <p>App AppApp App App App App AppAppAppAppAppApp AppAppAppApp</p>
             </div>
@@ -29,7 +29,7 @@
 
         <div class="col-lg-4 col-md-6 services-item filter-app">
           <div class="services-wrap">
-            <img src="media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
+            <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-2.jpg" class="img-fluid" alt="">
             <div class="services-info">
               <p>App AppApp App App App App AppAppAppAppAppApp AppAppAppApp</p>
             </div>
@@ -43,7 +43,7 @@
   </div><!-- End Services Section -->
 
         <!-- ======= Testimonials Section ======= -->
-        <section id="testimonials" class="testimonials section-bg">
+        <div id="testimonials" class="testimonials section-bg">
           <div class="container" data-aos="fade-up">
             <div class="section-header">
               <h3 class="section-title">Testimonials</h3>
@@ -109,5 +109,5 @@
             </div>
 
           </div>
-        </section>
+        </div>
         <!-- End Testimonials Section -->

@@ -41,7 +41,7 @@
  <!-- Main CSS File -->
  <link href="../assets/css/style.css" rel="stylesheet">
  <link href="../assets/css/about.css" rel="stylesheet">
- <link href="../assets/css/services.css" rel="stylesheet">
+ <link href="../assets/css/serv.css" rel="stylesheet">
  <link href="../assets/css/features.css" rel="stylesheet">
  <link href="../assets/css/contact.css" rel="stylesheet">
  <link href="../assets/css/solution.css" rel="stylesheet">
