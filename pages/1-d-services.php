@@ -74,7 +74,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
                 <h3>Heminda Jayaweera</h3>
                 <h4>Store Owner</h4>
                 <p>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
                 <h3>UNDP Team</h3>
                 <h4>Freelancer</h4>
                 <p>
@@ -96,7 +96,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
                 <h3>Squarehub Team</h3>
                 <h4>Entrepreneur</h4>
                 <p>
