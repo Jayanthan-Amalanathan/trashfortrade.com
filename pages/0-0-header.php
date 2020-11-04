@@ -2,24 +2,12 @@
 <html lang="en">
 
 <head>
-  <!-- Primary Meta Tags -->
+ <meta charset="utf-8">
+ <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
  <title>Trash For Trade</title>
- <meta name="title" content="Trash For Trade">
- <meta name="description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
-
- <!-- Open Graph / Facebook -->
- <meta property="og:type" content="website">
- <meta property="og:url" content="https://metatags.io/">
- <meta property="og:title" content="Trash For Trade">
- <meta property="og:description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
- <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
-
- <!-- Twitter -->
- <meta property="twitter:card" content="summary_large_image">
- <meta property="twitter:url" content="https://metatags.io/">
- <meta property="twitter:title" content="Trash For Trade">
- <meta property="twitter:description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
- <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+ <meta content="" name="descriptison">
+ <meta content="" name="keywords">
 
  <!-- Favicons -->
  <link href="../media/icons/logo-icon.png" rel="logo-icon">
@@ -41,7 +29,7 @@
  <!-- Main CSS File -->
  <link href="../assets/css/style.css" rel="stylesheet">
  <link href="../assets/css/about.css" rel="stylesheet">
- <link href="../assets/css/serv.css" rel="stylesheet">
+ <link href="../assets/css/services.css" rel="stylesheet">
  <link href="../assets/css/features.css" rel="stylesheet">
  <link href="../assets/css/contact.css" rel="stylesheet">
  <link href="../assets/css/solution.css" rel="stylesheet">
