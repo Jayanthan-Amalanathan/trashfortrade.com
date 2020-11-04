@@ -42,7 +42,7 @@
         </div>
 
         <div class="col-lg-6">
-          <form action="https://docs.google.com/forms/d/e/1FAIpQLSdP0a1R-rYOEOXYK8wov8gB0-EW3kGiZfM34J6dyCUiCQOijw/viewform?usp=pp_url" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
+          <form action="https://docs.google.com/forms/d/e/1FAIpQLSdP0a1R-rYOEOXYK8wov8gB0-EW3kGiZfM34J6dyCUiCQOijw/viewform?usp=pp_url&entry.1526196978=Abi&entry.949314737=trash4trade@gmail.com&entry.1408109649=T4T&entry.1232062195=Message" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
             <div class="form-row">
               <div class="col-md-6 form-group">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1526196978" required/>
