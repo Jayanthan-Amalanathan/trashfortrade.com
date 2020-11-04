@@ -1,0 +1,112 @@
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.services .services-item {
+  margin-bottom: 30px;
+  font-family: "Lora";
+}
+
+.services .services-item .title{
+  background-color: #fff;
+  height: 50px;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+  color: #111;
+  text-transform: uppercase;
+  padding-top: 13px;
+}
+
+.services .services-wrap {
+  transition: 0.3s;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+  background: rgba(255, 255, 255, 0.9);
+}
+
+.services .services-wrap::before {
+  content: "";
+  background: rgba(255, 255, 255, 0.7);
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  top: 30px;
+  bottom: 30px;
+  transition: all ease-in-out 0.3s;
+  z-index: 2;
+  opacity: 0;
+}
+
+.services .services-wrap .services-info {
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+  font-size: 18px;
+  padding: 25px;
+  text-align: center;
+  transition: all ease-in-out 0.3s;
+  display: flex;
+}
+
+.services .services-wrap .services-info::before {
+  display: block;
+  content: "";
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  top: 35px;
+  left: 35px;
+  border-top: 3px solid #bdc6ca;
+  border-left: 3px solid #bdc6ca;
+  transition: all 0.5s ease 0s;
+  z-index: 9994;
+}
+
+.services .services-wrap .services-info::after {
+  display: block;
+  content: "";
+  width: 48px;
+  height: 48px;
+  position: absolute;
+  bottom: 35px;
+  right: 35px;
+  border-bottom: 3px solid #bdc6ca;
+  border-right: 3px solid #bdc6ca;
+  transition: all 0.5s ease 0s;
+  z-index: 9994;
+}
+
+.services .services-wrap .services-info p {
+  color: #0f394c;
+  font-size: 14px;
+  padding: 0;
+  margin: 0;
+}
+
+.services .services-wrap:hover::before {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 1;
+}
+
+.services .services-wrap:hover .services-info {
+  opacity: 1;
+}
+
+.services .services-wrap:hover .services-info::before {
+  top: 15px;
+  left: 15px;
+}
+
+.services .services-wrap:hover .services-info::after {
+  bottom: 15px;
+  right: 15px;
+}
