@@ -23,7 +23,7 @@
     var res = confirm("Thank you for your message. \n\nWe will respond to you as soon as possible. \n\nKind regards, \nTrash For Trade");
     if (res == true)
     {
-      window.location.replace("http://trashfortrade.com");
+      window.location.replace("trashfortrade.com");
     }
 
     return false;
