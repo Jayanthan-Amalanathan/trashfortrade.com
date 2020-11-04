@@ -42,29 +42,24 @@
         </div>
 
         <div class="col-lg-6">
-          <form action="https://docs.google.com/forms/d/e/1FAIpQLSdP0a1R-rYOEOXYK8wov8gB0-EW3kGiZfM34J6dyCUiCQOijw/viewform" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
+          <form action="https://docs.google.com/forms/d/e/1FAIpQLSdP0a1R-rYOEOXYK8wov8gB0-EW3kGiZfM34J6dyCUiCQOijw/viewform?usp=pp_url&entry.1526196978=Abi&entry.949314737=trash4trade@gmail.com&entry.1408109649=T4T&entry.1232062195=Message" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
             <div class="form-row">
               <div class="col-md-6 form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1760736902" required/>
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1526196978" required/>
                 <div class="validate"></div>
               </div>
               <div class="col-md-6 form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" name="entry.1263661469" required/>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" name="entry.949314737" required/>
                 <div class="validate"></div>
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" name="entry.151948750" required/>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" name="entry.1408109649" required/>
               <div class="validate"></div>
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" name="entry.135762049" required></textarea>
+              <textarea class="form-control" name="message" rows="5" name="entry.1232062195" required></textarea>
               <div class="validate"></div>
-            </div>
-            <div class="mb-3">
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
             </div>
             <div class="text-center"><button type="submit">Send Message</button></div>
           </form>
