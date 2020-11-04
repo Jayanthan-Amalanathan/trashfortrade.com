@@ -43,7 +43,7 @@
   </div><!-- End Services Section -->
 
         <!-- ======= Testimonials Section ======= -->
-        <div id="testimonials" class="testimonials section-bg">
+        <section id="testimonials" class="testimonials section-bg">
           <div class="container" data-aos="fade-up">
             <div class="section-header">
               <h3 class="section-title">Testimonials</h3>
@@ -52,7 +52,7 @@
             <div class="owl-carousel testimonials-carousel">
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>Dave Hakkins</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <p>
@@ -63,7 +63,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>MEPA Director - Batticaloa</h3>
                 <h4>Designer</h4>
                 <p>
@@ -74,7 +74,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>Heminda Jayaweera</h3>
                 <h4>Store Owner</h4>
                 <p>
@@ -85,7 +85,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>UNDP Team</h3>
                 <h4>Freelancer</h4>
                 <p>
@@ -96,7 +96,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>Squarehub Team</h3>
                 <h4>Entrepreneur</h4>
                 <p>
@@ -109,5 +109,5 @@
             </div>
 
           </div>
-        </div>
+        </section>
         <!-- End Testimonials Section -->
