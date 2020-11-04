@@ -52,7 +52,7 @@
             <div class="owl-carousel testimonials-carousel">
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>Dave Hakkins</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <p>
@@ -63,7 +63,7 @@
               </div>
 
               <div class="testimonial-item">
-                <img src="media\images\logo-final.png" class="testimonial-img" alt="">
+                <img src="../media\images\logo-final.png" class="testimonial-img" alt="">
                 <h3>MEPA Director - Batticaloa</h3>
                 <h4>Designer</h4>
                 <p>
