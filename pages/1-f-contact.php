@@ -42,23 +42,23 @@
         </div>
 
         <div class="col-lg-6">
-          <form action="https://docs.google.com/forms/d/e/1FAIpQLSdP0a1R-rYOEOXYK8wov8gB0-EW3kGiZfM34J6dyCUiCQOijw/viewform" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
+          <form action="https://docs.google.com/forms/u/0/d/1DKDhfnziyYMUkpm81TkXN1GKQn_tGNMWbe9ph8G8YX8/prefill" method="post" role="form" class="php-email-form" onsubmit="return window.submitGoogleForm(this);">
             <div class="form-row">
               <div class="col-md-6 form-group">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1760736902" required/>
+                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" name="entry.1713471508" required/>
                 <div class="validate"></div>
               </div>
               <div class="col-md-6 form-group">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" name="entry.1263661469" required/>
+                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" name="emailAddress" required/>
                 <div class="validate"></div>
               </div>
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" name="entry.151948750" required/>
+              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" name="entry.1315428394" required/>
               <div class="validate"></div>
             </div>
             <div class="form-group">
-              <textarea class="form-control" name="message" rows="5" name="entry.135762049" required></textarea>
+              <textarea class="form-control" name="message" rows="5" name="entry.1465059479" required></textarea>
               <div class="validate"></div>
             </div>
             <div class="mb-3">
