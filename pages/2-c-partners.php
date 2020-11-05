@@ -13,7 +13,7 @@
           <div class="member-img">
             <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href=""><i class="fa fa-link"></i></a>
+              <a href=""><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -43,7 +43,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-precious-plastic.jpg" class="img-fluid" alt="">
               <div class="social">
-              <a href=""><i class="fa fa-link"></i></a>
+              <a href=""><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -57,7 +57,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-dreamspace-academy.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-link"></i></a>
+                <a href=""><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -87,7 +87,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-reyn.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-link"></i></a>
+                <a href=""><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -101,7 +101,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-aracreate.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-link"></i></a>
+                <a href=""><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -116,7 +116,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-link"></i></a>
+                <a href=""><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
