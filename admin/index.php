@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Admin.trashfortrade.com</title>
+  <title>trashfortrade.com</title>
  </head>
  <body>
- <?php echo '<h1>Admin.trashfortrade.com</h1>'; ?>
+ <?php echo '<h1>trashfortrade.com</h1>'; ?>
  </body>
 </html>
