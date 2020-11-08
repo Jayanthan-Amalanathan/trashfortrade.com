@@ -22,7 +22,7 @@
         <div class="carousel-item" data-interval="3000" style="background-image: url(../media/images/title-images-trash-for-trade/title-images-trash-for-trade-2.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lets Fight Against Ocean Pollution</h2>
+              <h2 class="animate__animated animate__fadeInDown">Lets Fight Against Ocean Contamination</h2>
               <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Us</a>
             </div>
           </div>
@@ -31,7 +31,7 @@
         <div class="carousel-item" data-interval="3000" style="background-image: url(../media/images/title-images-trash-for-trade/title-images-trash-for-trade-3.jpg)">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Plastic Segregation Is A Key Step In Recycling</h2>
+              <h2 class="animate__animated animate__fadeInDown">Plastic Segregation Is The Key Step For Recycling</h2>
               <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Contact Us</a>
             </div>
           </div>
