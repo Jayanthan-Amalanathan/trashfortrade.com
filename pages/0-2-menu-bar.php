@@ -10,7 +10,7 @@
 
     <nav id="nav-menu-container">
       <ul class="nav-menu">
-        <li class="menu-active"><a href="1-0-index.php">Home</a></li>
+        <li class="menu-active"><a href="1-0-index.php#home">Home</a></li>
         <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a>
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
@@ -20,7 +20,7 @@
             <li><a href="2-0-about.php#community">Community</a></li>
           </ul>
         </li>
-        <li><a href="1-0-index.php#solution">Solution</a></li>
+        <li><a href="1-0-index.php#solution">Features</a></li>
         <li><a href="1-0-index.php#portfolio">Services</a></li>
         <li><a href="1-0-index.php#blog">Blog</a></li>
         <li><a href="1-0-index.php#contact">Contact Us</a></li>
