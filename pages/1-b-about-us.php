@@ -93,11 +93,5 @@
         <p>Other Types Of Plastic</p>
       </div>
 
-      <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">12</span>
-        <p>Polythene</p>
-      </div>
-    </div>
-
   </div>
 </div><!-- End Facts Section -->
