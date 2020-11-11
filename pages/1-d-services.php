@@ -12,11 +12,7 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Shredded Plastic is the reusable raw material from plastic waste used for manufacturing plastic containers, PET bottles, and PVC products.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
             </div>
-          </div>
         </div>
       </div>
 
@@ -25,10 +21,6 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
           </div>
         </div>
       </div>
@@ -38,10 +30,6 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Building machinery such as Shredder, Injection, Extrusion, Sheet press, and Compression for the upcycling process.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
           </div>
         </div>
       </div>
@@ -55,10 +43,6 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Upcycled plastic has the potential to replace more conventional and wasteful building materials such as hollow blocks, roofing sheets, etc.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-1.jpg" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
           </div>
         </div>
       </div>
@@ -68,11 +52,7 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Manufacturing chairs, stools, shelves, and more are not only possible but impossibly beautiful from the waste.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-2.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+        </div>
         </div>
       </div>
 
@@ -81,11 +61,7 @@
           <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Create custom plastic designs with the injection molding process for mass and niche manufacturing.</p>
-            <div class="portfolio-links">
-              <a href="assets/img/portfolio/portfolio-3.jpg" data-gall="portfolioGallery" class="venobox" title="App 2"><i class="bx bx-plus"></i></a>
-              <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
-            </div>
-          </div>
+        </div>
         </div>
       </div>
 
