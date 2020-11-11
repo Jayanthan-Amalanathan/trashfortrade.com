@@ -13,6 +13,9 @@
           <div class="portfolio-info">
             <p>Shredded Plastic is the reusable raw material from plastic waste used for manufacturing plastic containers, PET bottles, and PVC products.</p>
             </div>
+            <div class="member-info">
+              <h4>Shredded Plastic</h4>
+            </div>
         </div>
       </div>
 
