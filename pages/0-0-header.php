@@ -2,12 +2,31 @@
 <html lang="en">
 
 <head>
- <meta charset="utf-8">
- <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
- <title>Trash For Trade</title>
- <meta content="" name="descriptison">
- <meta content="" name="keywords">
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+ 
+   <!-- Primary Meta Tags -->
+  <title>Trash For Trade</title>
+  <meta content="" name="descriptison">
+  <meta content="" name="keywords">
+  <meta name="title" content="Trash For Trade">
+  <meta name="description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://trashfortrade.com/pages/1-0-index.php">
+  <meta property="og:title" content="Trash For Trade">
+  <meta property="og:description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
+  <meta property="og:image" content="">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://trashfortrade.com/pages/1-0-index.php">
+  <meta property="twitter:title" content="Trash For Trade">
+  <meta property="twitter:description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process.">
+  <meta property="twitter:image" content="">
+
 
  <!-- Favicons -->
  <link href="../media/icons/logo-icon.png" rel="logo-icon">
