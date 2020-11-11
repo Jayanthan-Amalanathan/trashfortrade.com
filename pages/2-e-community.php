@@ -17,8 +17,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Jayanthan Amalanathan</h4>
-            <span><br>Co-founder<br>Chief Executive Officer</span>
+            <h4>Kishoth Navaretnarajah</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -32,8 +32,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Abitharani Jeyachandran</h4>
-            <span><br>Co-founder<br>Head of Digital Marketing</span>
+            <h4>Shanjeevan Amalanathan</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -47,8 +47,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Vickneshwarasarma Yogeswaraiyer</h4>
-            <span>Co-founder<br>Head of Marketing and Sales</span>
+            <h4>Ahaliya David</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -62,8 +62,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Ielamathy Manivannan</h4>
-            <span><br>Co-founder<br>Head of Communication </span>
+            <h4>Anna Jeyaraj Moses</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -81,8 +81,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Jathurshan Yokeswaran</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -96,8 +96,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Jerushan Sritharan</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -111,8 +111,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Charuni Indrajith</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -126,8 +126,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Grashiyan Charles</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -145,8 +145,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Kosaaruna Tharmanathan</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -160,8 +160,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Pavithran Manisegaran</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -175,8 +175,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Pavithiran Thayalanathan</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -190,8 +190,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Prashath Thevapalan</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -209,8 +209,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Shankarie Sritharan</h4>
+            <span>Ampara</span>
           </div>
         </div>
       </div>
@@ -224,8 +224,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Thanushkar Srikaran</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>
@@ -239,8 +239,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Suthakaran Sivaprakasam</h4>
+            <span>Kaluwanchikudy</span>
           </div>
         </div>
       </div>
@@ -254,8 +254,8 @@
             </div>
           </div>
           <div class="member-info">
-            <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <h4>Viththiyakaran Nadarajah</h4>
+            <span>Batticaloa</span>
           </div>
         </div>
       </div>

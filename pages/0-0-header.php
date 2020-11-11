@@ -5,7 +5,7 @@
 
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
- 
+
    <!-- Primary Meta Tags -->
   <title>Trash For Trade</title>
   <meta content="" name="descriptison">
@@ -29,8 +29,8 @@
 
 
  <!-- Favicons -->
- <link href="../media/icons/logo-icon.png" rel="logo-icon">
- <link href="../media/icons/logo-trash-for-trade.png" rel="logo">
+ <link href="../media\images\logo-trash-for-trade.png" rel="logo-icon">
+ <link href="../media\images\logo-trash-for-trade.png" rel="logo">
 
  <!-- Google Fonts -->
  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
