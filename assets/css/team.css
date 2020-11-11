@@ -242,8 +242,6 @@ font-size: 14px;
 .partners .member .member-img {
   position: relative;
   overflow: hidden;
-  border: 1px solid #000;
-  border-radius: 4px;
 }
 
 .partners .member .social {
