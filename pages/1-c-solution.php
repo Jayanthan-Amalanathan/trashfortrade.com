@@ -15,14 +15,14 @@
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
-          <div class="icon"><i class='bx bxs-tree'></i></div>
+          <div class="icon"><i class='bx bx-recycle'></i></div>
           <h4 class="title"><a href="">Eco Friendly</a></h4>
           <p class="description">Opportunity to eliminate plastic waste and reduce the demand for virgin plastic</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
-          <div class="icon"><i class='bx bx-recycle'></i></div>
+          <div class="icon"><i class='bx bx-group'></i></div>
           <h4 class="title"><a href="">Community</a></h4>
           <p class="description">They provide support and create awareness among locals for a better livelihood</p>
         </div>
@@ -44,7 +44,7 @@
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
-          <div class="icon"><i class='bx bx-credit-card'></i></div>
+          <div class="icon"><i class='bx bx-dollar-circle'></i></div>
           <h4 class="title"><a href="">Social Enterprise</a></h4>
           <p class="description">Developed a social enterprise business model for sustainability of the project</p>
         </div>
