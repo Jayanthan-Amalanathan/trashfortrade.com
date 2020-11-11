@@ -26,6 +26,9 @@
             <p>Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
           </div>
         </div>
+        <div class="member-info">
+          <h4>Plastic Pellets</h4>
+        </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -34,6 +37,9 @@
           <div class="portfolio-info">
             <p>Building machinery such as Shredder, Injection, Extrusion, Sheet press, and Compression for the upcycling process.</p>
           </div>
+        </div>
+        <div class="member-info">
+          <h4>Upcycling machines</h4>
         </div>
       </div>
 
@@ -48,6 +54,9 @@
             <p>Upcycled plastic has the potential to replace more conventional and wasteful building materials such as hollow blocks, roofing sheets, etc.</p>
           </div>
         </div>
+        <div class="member-info">
+          <h4>Construction materials</h4>
+        </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
@@ -57,6 +66,9 @@
             <p>Manufacturing chairs, stools, shelves, and more are not only possible but impossibly beautiful from the waste.</p>
         </div>
         </div>
+        <div class="member-info">
+          <h4>Furniture</h4>
+        </div>
       </div>
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
@@ -65,6 +77,9 @@
           <div class="portfolio-info">
             <p>Create custom plastic designs with the injection molding process for mass and niche manufacturing.</p>
         </div>
+        </div>
+        <div class="member-info">
+          <h4>Custom Design Plastics</h4>
         </div>
       </div>
 
