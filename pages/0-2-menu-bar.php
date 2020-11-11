@@ -15,9 +15,9 @@
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
             <li><a href="2-0-about.php#supporters">Supporters</a></li>
+            <li><a href="2-0-about.php#awards">Awards</a></li>
             <li><a href="2-0-about.php#partners">Partners</a></li>
-            <li><a href="2-0-about.php#achievement">Achievement</a></li>
-
+            <li><a href="2-0-about.php#community">Community</a></li>
           </ul>
         </li>
         <li><a href="1-0-index.php#solution">Solution</a></li>

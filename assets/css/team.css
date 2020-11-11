@@ -51,6 +51,26 @@
   padding-bottom: 0;
 }
 
+#awards .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
+#community .section-header .section-title {
+  font-size: 32px;
+  color: #111;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 5px;
+  padding-bottom: 0;
+}
+
 #team {
   background: #fff;
   padding: 110px 0 20px 0;
@@ -223,6 +243,92 @@ font-size: 14px;
 }
 
 /*--------------------------------------------------------------
+# Awards
+--------------------------------------------------------------*/
+#awards {
+  background: #fff;
+  padding: 60px 0 40px 0;
+}
+
+.awards .member {
+  margin-bottom: 60px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.awards .member .member-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.awards .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.awards .member .social a {
+  transition: color 0.3s;
+  color: #fff;
+  margin: 0 10px;
+  margin-top: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-color: #5c8b2a;
+}
+
+.awards .member .social a:hover {
+  color: #5c8b2a;
+  background: #fff;
+}
+
+.awards .member .social i {
+  font-size: 18px;
+  padding-top: 6px;
+}
+
+.awards .member .member-info {
+  padding: 15px 15px;
+}
+
+.awards .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #5c8b2a;
+}
+
+.awards .member .member-info span {
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+}
+
+.awards .member:hover .social {
+  opacity: 1;
+}
+
+@media (max-width: 768px){
+  .awards .member{
+  max-width: 100%;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: block;
+}
+}
+
+/*--------------------------------------------------------------
 # Partners
 --------------------------------------------------------------*/
 #partners {
@@ -318,4 +424,90 @@ font-size: 14px;
 #network-partners {
   background: #fff;
   padding: 30px 0 60px 0;
+}
+
+/*--------------------------------------------------------------
+# Supporters
+--------------------------------------------------------------*/
+#community {
+  background: #fff;
+  padding: 60px 0 40px 0;
+}
+
+.community .member {
+  margin-bottom: 60px;
+  overflow: hidden;
+  text-align: center;
+  border-radius: 4px;
+  background: #fff;
+  box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
+}
+
+.community .member .member-img {
+  position: relative;
+  overflow: hidden;
+}
+
+.community .member .social {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 40px;
+  opacity: 0;
+  transition: ease-in-out 0.3s;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+.community .member .social a {
+  transition: color 0.3s;
+  color: #fff;
+  margin: 0 10px;
+  margin-top: 5px;
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  background-color: #5c8b2a;
+}
+
+.community .member .social a:hover {
+  color: #5c8b2a;
+  background: #fff;
+}
+
+.community .member .social i {
+  font-size: 18px;
+  padding-top: 6px;
+}
+
+.community .member .member-info {
+  padding: 15px 15px;
+}
+
+.community .member .member-info h4 {
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #5c8b2a;
+}
+
+.community .member .member-info span {
+  display: block;
+  font-size: 14px;
+  font-weight: 400;
+  color: #666666;
+}
+
+.community .member:hover .social {
+  opacity: 1;
+}
+
+@media (max-width: 768px){
+  .community .member{
+  max-width: 100%;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: block;
+}
 }
