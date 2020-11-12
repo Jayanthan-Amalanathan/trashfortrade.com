@@ -147,7 +147,7 @@
     <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
       <div class="member">
         <div class="member-img">
-          <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-bookbridge.jpg" class="img-fluid" alt="">
+          <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-sylc.jpg" class="img-fluid" alt="">
           <div class="social">
             <a href="https://sylcsl.org/"><i class="fa fa-chrome"></i></a>
           </div>
