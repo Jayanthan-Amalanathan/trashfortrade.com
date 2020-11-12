@@ -105,7 +105,7 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>areaCreate</h4>
+              <h4>araCreate</h4>
 
             </div>
           </div>
