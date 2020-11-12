@@ -10,7 +10,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-shredded-plastic.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Shredded Plastic is the reusable raw material from plastic waste used for manufacturing plastic containers, PET bottles, and PVC products.</p>
             </div>
@@ -22,7 +22,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-plastic-pellets.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
           </div>
@@ -34,7 +34,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-machines.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Building machinery such as Shredder, Injection, Extrusion, Sheet press, and Compression for the upcycling process.</p>
           </div>
@@ -50,7 +50,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-construction-materials.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Upcycled plastic has the potential to replace more conventional and wasteful building materials such as hollow blocks, roofing sheets, etc.</p>
           </div>
@@ -62,7 +62,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-web">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-furnitures.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Manufacturing chairs, stools, shelves, and more are not only possible but impossibly beautiful from the waste.</p>
         </div>
@@ -74,7 +74,7 @@
 
       <div class="col-lg-4 col-md-6 portfolio-item filter-app">
         <div class="portfolio-wrap">
-          <img src="../media\images\title-images-trash-for-trade\title-images-trash-for-trade-5.jpg" class="img-fluid" alt="">
+          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-custom-designs.jpg" class="img-fluid" alt="">
           <div class="portfolio-info">
             <p>Create custom plastic designs with the injection molding process for mass and niche manufacturing.</p>
         </div>
