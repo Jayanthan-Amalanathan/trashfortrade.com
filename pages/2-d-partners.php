@@ -13,7 +13,7 @@
           <div class="member-img">
             <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href=""><i class="fa fa-chrome"></i></a>
+              <a href="https://www.lk.undp.org/content/srilanka/en/home.html"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -43,7 +43,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-precious-plastic.jpg" class="img-fluid" alt="">
               <div class="social">
-              <a href=""><i class="fa fa-chrome"></i></a>
+              <a href="https://preciousplastic.com/"><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -57,7 +57,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-dreamspace-academy.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-chrome"></i></a>
+                <a href="https://dreamspace.academy/pages/1-index.php"><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -87,7 +87,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-reyn.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-chrome"></i></a>
+                <a href="https://www.facebook.com/REYNSL"><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -101,11 +101,11 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-aracreate.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-chrome"></i></a>
+                <a href="https://aravinth.info/"><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Ara Create</h4>
+              <h4>areaCreate</h4>
 
             </div>
           </div>
@@ -116,7 +116,7 @@
             <div class="member-img">
               <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="fa fa-chrome"></i></a>
+                <a href="http://squarehub.tech/"><i class="fa fa-chrome"></i></a>
               </div>
             </div>
             <div class="member-info">
@@ -124,6 +124,39 @@
             </div>
           </div>
         </div>
+
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+          <div class="member">
+            <div class="member-img">
+              <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-bookbridge.jpg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="https://www.bookbridge.org/"><i class="fa fa-chrome"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>BOOKBRIDGE</h4>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+  <div class="row">
+
+    <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+      <div class="member">
+        <div class="member-img">
+          <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-bookbridge.jpg" class="img-fluid" alt="">
+          <div class="social">
+            <a href="https://sylcsl.org/"><i class="fa fa-chrome"></i></a>
+          </div>
+        </div>
+        <div class="member-info">
+          <h4>Sagacious Youth Lead Consortium</h4>
+        </div>
+      </div>
+    </div>
 
       </div>
 

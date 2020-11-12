@@ -11,13 +11,14 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="img-fluid" alt="">
+            <img src="../media\images\awards-trash-for-trade\awards-trash-for-trade-hackdev.jpg" class="img-fluid" alt="">
             <div class="social">
               <a href=""><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>United Nation Development Program</h4>
+            <h4>Hackdev Social Innovation Challenge</h4>
+              <span>2020</span>
           </div>
         </div>
       </div>

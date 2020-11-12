@@ -87,6 +87,59 @@
             </div>
           </div>
         </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-img">
+              <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-bhargav.jpg" class="img-fluid" alt="">
+              <div class="social">
+
+                <a href="https://www.linkedin.com/in/bhargav-kalisar-ramachandra-ab625a1b/"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Bhargav Kalisar Ramachandra</h4>
+              <span>Project Mentor</span>
+              <span>India</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-img">
+              <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-maite.jpg" class="img-fluid" alt="">
+              <div class="social">
+
+                <a href="https://www.linkedin.com/in/maitezubeldia/"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Maite Hernandez Zubeldia</h4>
+              <span>Design Mentor</span>
+              <span>Cuba</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+          <div class="member" data-aos="fade-up" data-aos-delay="100">
+            <div class="member-img">
+              <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-sujitha.jpg" class="img-fluid" alt="">
+              <div class="social">
+
+                <a href="https://www.linkedin.com/in/sujitha-miranda-5b742045/"><i class="fa fa-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Sujitha Miranda</h4>
+              <span>Network Mentor</span>
+              <span>Sri Lanka</span>
+            </div>
+          </div>
+        </div>
+
+
       </div>
 
     </div>

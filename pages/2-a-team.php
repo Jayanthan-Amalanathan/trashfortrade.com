@@ -82,7 +82,22 @@
           </div>
           <div class="member-info">
             <h4>Kirushnachandran Chanthiralingam</h4>
-            <span>Chief Technical Officer</span>
+            <span>Technical Officer</span>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-jerushan.jpg" class="img-fluid" alt="">
+            <div class="social">
+            <a href="https://www.linkedin.com/in/kirushnachandran-chanthiralingam-a016221b4/"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Jerushan Sritharan</h4>
+            <br>
+            <span>Technical Officer</span>
           </div>
         </div>
       </div>
