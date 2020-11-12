@@ -81,7 +81,7 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Janene Liston</h4>
+              <h4>Janene Liston</br></h4>
               <span>Finance Mentor</span>
               <span>Russia</span>
             </div>
@@ -110,7 +110,6 @@
             <div class="member-img">
               <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-maite.jpg" class="img-fluid" alt="">
               <div class="social">
-
                 <a href="https://www.linkedin.com/in/maitezubeldia/"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
@@ -127,12 +126,11 @@
             <div class="member-img">
               <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-sujitha.jpg" class="img-fluid" alt="">
               <div class="social">
-
                 <a href="https://www.linkedin.com/in/sujitha-miranda-5b742045/"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Sujitha Miranda</h4>
+              <h4>Sujitha Miranda</br></h4>
               <span>Network Mentor</span>
               <span>Sri Lanka</span>
             </div>
