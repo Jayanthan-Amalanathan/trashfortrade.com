@@ -18,7 +18,7 @@
           </div>
           <div class="member-info">
             <h4>Hackdev Social Innovation Challenge</h4>
-              <span>2020</span>
+              <span>2019</span>
           </div>
         </div>
       </div>
