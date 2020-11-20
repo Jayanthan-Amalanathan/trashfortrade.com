@@ -410,14 +410,28 @@ padding-top: 2px;
   margin: 0;
 }
 
-/*.nav-menu .menu-has-childrenx ul{
-  padding-left: 175px;
+.nav-menu ul li .underline{
+  height: 3px;
+  background-color: transparent;
+  width: 0%;
+  transition: width 0.2s, background-color 0.5s;
+  margin: 0 auto;
 }
 
-.nav-menu .menu-has-childrenx ul li a{
-  text-align: left;
-  padding-left: 10px;
-}*/
+.nav-menu ul li.active .underline{
+  width: 100%;
+  background-color: #5b8c2a;
+}
+
+.nav-menu ul li:hover .underline{
+  width: 100%;
+  background-color: #5b8c2a;
+}
+
+.nav-menu ul li:active .underline{
+  transition: none;
+  background-color: #5b8c2a;
+}
 
 /* Mobile Nav Toggle */
 #mobile-nav-toggle {
