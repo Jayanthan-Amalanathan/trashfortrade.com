@@ -1,5 +1,5 @@
 <!-- ======= Solution Section ======= -->
-<div id="solution">
+<section id="solution">
   <div class="container" data-aos="fade-up">
     <div class="section-header">
       <h3 class="section-title">Features</h3>
@@ -52,4 +52,4 @@
     </div>
 
   </div>
-</div><!-- End solution Section -->
+</section><!-- End solution Section -->

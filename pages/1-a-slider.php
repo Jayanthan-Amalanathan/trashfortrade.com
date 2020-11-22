@@ -1,6 +1,6 @@
 <!-- ======= Hero Section ======= -->
 <!-- ======= Intro Section ======= -->
-<div id="intro">
+<section id="intro">
   <div class="intro-container">
     <div id="introCarousel" class="carousel  slide carousel-fade" data-ride="carousel">
 
@@ -70,5 +70,5 @@
 
     </div>
   </div>
-</div><!-- End Intro Section -->
+</section><!-- End Intro Section -->
 <!-- End Hero Section -->

@@ -1,5 +1,5 @@
 <!-- ======= Contact Section ======= -->
-  <div id="contact" class="contact section-bg">
+  <section id="contact" class="contact section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-header">
         <h3 class="section-title">Contact Us</h3>
@@ -73,4 +73,4 @@
       </div>
 
     </div>
-  </div><!-- End Contact Section -->
+  </section><!-- End Contact Section -->

@@ -8,8 +8,8 @@
       <!-- ======= Navigation Bar ======= -->
     </div>
 
-    <nav id="nav-menu-container">
-      <ul class="nav-menu">
+    <nav class="nav-menu">
+      <ul>
         <li class="menu-active"><a href="1-0-index.php">Home</a><div class="underline"></div></li>
         <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a><div class="underline"></div>
           <ul>

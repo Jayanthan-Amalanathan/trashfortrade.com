@@ -1,5 +1,5 @@
 <!-- ======= About Section ======= -->
-<div id="about">
+<section id="about">
   <div class="section-header">
     <h3 class="section-title">About Us</h3>
 
@@ -44,10 +44,10 @@
 
     </div>
   </div>
-</div><!-- End About Section -->
+</section><!-- End About Section -->
 
 <!-- ======= Facts Section ======= -->
-<div id="facts">
+<section id="facts">
   <div class="container" data-aos="fade-up">
     <div class="section-header">
       <h3 class="section-title">Facts</h3>
@@ -94,4 +94,4 @@
       </div>
 
   </div>
-</div><!-- End Facts Section -->
+</section><!-- End Facts Section -->

@@ -1,5 +1,5 @@
 <!-- ======= Team Section ======= -->
-<div id="team" class="team section-bg">
+<section id="team" class="team section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-header">
       <h3 class="section-title">Team</h3>
@@ -105,5 +105,5 @@
     </div>
 
   </div>
-</div>
+</section>
 <!-- End Team Section -->
