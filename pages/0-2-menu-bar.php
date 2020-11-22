@@ -10,7 +10,7 @@
 
     <nav id="nav-menu-container">
       <ul class="nav-menu">
-        <li class="menu-active"><a href="1-0-index.php">Home</a><div class="underline"></div></li>
+        <li class="active"><a href="1-0-index.php">Home</a><div class="underline"></div></li>
         <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a><div class="underline"></div>
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
