@@ -2,10 +2,9 @@
 <div id="community" class="community section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
-              <h2>Services</h2>
-              <h3>Check our <span>Services</span></h3>
-              <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-            </div>
+              <h2>Community</h2>
+              <h3>Our Volunteer Force</h3>
+    </div>
 
     <div class="row">
 

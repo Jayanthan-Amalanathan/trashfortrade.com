@@ -3,20 +3,20 @@
   <div class="container" data-aos="fade-up">
     <div class="section-title">
               <h2>Features</h2>
-              <h3>We stand for</h3>
+              <h3>We Stand For</h3>
               </div>
     <div class="row">
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-water'></i></div>
           <h4 class="title">Marine Conservation</h4>
-          <p class="description">Reduce the plastic waste ended up in inland water bodies and ocean</p>
+          <p class="description">Reduce the plastic waste ending up in inland water bodies and ocean, thus preventing ocean pollution</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-recycle'></i></div>
-          <h4 class="title">Eco Friendly</h4>
+          <h4 class="title">Eco-friendly Plastic Usage</h4>
           <p class="description">Opportunity to eliminate plastic waste and reduce the demand for virgin plastic</p>
         </div>
       </div>
@@ -24,8 +24,8 @@
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bxs-business'></i></i></div>
-          <h4 class="title">Mix Workspace</h4>
-          <p class="description">Combination collection, machine-building, and upcycling spaces infrastructure framework</p>
+          <h4 class="title">Community-oriented Goals</h4>
+          <p class="description">A strong community of similar-minded, passionate individuals who support and uplift the cause by creating awareness among locals for a better livelihood</p>
         </div>
       </div>
     </div>
@@ -36,22 +36,22 @@
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bxs-cog'></i></div>
-          <h4 class="title">Locally Produced Machineries</h4>
-          <p class="description">Machinery is manufactured with local partners and raw materials and easily repaired</p>
+          <h4 class="title">An Integrated Workspace</h4>
+          <p class="description">○	An integrated, individual workspaces for plastic waste collection, machinery-building, and upcycling processes</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-dollar-circle'></i></div>
-          <h4 class="title">Social Enterprise</br></h4>
-          <p class="description">Developed a social enterprise business model for sustainability of the project</p>
+          <h4 class="title">Upcycling Machinery Production</br></h4>
+          <p class="description">○	Machineries hand-built by the team along with local partners using easily-available raw materials</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-group'></i></div>
-          <h4 class="title">Community</br></h4>
-          <p class="description">They provide support and create awareness among locals for a better livelihood</p>
+          <h4 class="title">A Social Enterprise on the Rise</br></h4>
+          <p class="description">○	A social enterprise-oriented business model for the prolonged sustainability of the project</p>
         </div>
       </div>
     </div>

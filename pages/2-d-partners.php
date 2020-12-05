@@ -2,10 +2,9 @@
 <div id="partners" class="partners section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
-              <h2>Services</h2>
-              <h3>Check our <span>Services</span></h3>
-              <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-            </div>
+              <h2>Partners</h2>
+              <h3>We Are Partnering With...</h3>
+    </div>
 
     <div class="row">
 

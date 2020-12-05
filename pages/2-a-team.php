@@ -2,12 +2,25 @@
 <section id="team" class="team section-bg">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
-              <h2>Services</h2>
-              <h3>Check our <span>Services</span></h3>
-              <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
-            </div>
+              <h2>Team</h2>
+              <h3>Who Are We?</h3>
+    </div>
 
     <div class="row">
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-jayanthan.jpg" class="img-fluid" alt="">
+            <div class="social">
+              <a href="https://www.linkedin.com/in/aravinthpanch/"><i class="fa fa-linkedin"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Aravinth Panch</h4>
+            <span><br>Co-founder<br>Chief Executive Officer</span>
+          </div>
+        </div>
+      </div>
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
@@ -54,6 +67,11 @@
         </div>
       </div>
 
+
+    </div>
+
+    <div class="row">
+
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
         <div class="member">
           <div class="member-img">
@@ -68,10 +86,6 @@
           </div>
         </div>
       </div>
-
-    </div>
-
-    <div class="row">
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">

@@ -558,21 +558,9 @@ section {
 
 .section-title h3 {
   margin: 15px 0 0 0;
-  font-size: 32px;
+  font-size: 30px;
   font-weight: 700;
-  color: #777;
-}
-
-.section-title p {
-  margin: 15px auto 0 auto;
-  font-weight: 500;
-  color: #5c8b2a;
-}
-
-@media (min-width: 1024px) {
-  .section-title p {
-    width: 50%;
-  }
+  color: #555;
 }
 
 /*blog
