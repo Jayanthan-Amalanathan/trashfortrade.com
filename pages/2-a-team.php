@@ -10,7 +10,7 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-jayanthan.jpg" class="img-fluid" alt="">
+            <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-aravinth.jpg" class="img-fluid" alt="">
             <div class="social">
               <a href="https://www.linkedin.com/in/aravinthpanch/"><i class="fa fa-linkedin"></i></a>
             </div>
