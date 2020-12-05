@@ -3,7 +3,7 @@
   <div class="container" data-aos="fade-up">
     <div class="section-title">
               <h2>Partners</h2>
-              <h3>We Are Partnering With...</h3>
+              <h3>Funding Partners</h3>
     </div>
 
     <div class="row">
@@ -32,9 +32,8 @@
   <div id="project-partners" class="partners section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
-                  <h2>Courses</h2>
-                  <p>Popular Courses</p>
-                </div>
+                <h3>Project Partners</h3>
+      </div>
 
       <div class="row">
 
@@ -76,9 +75,8 @@
   <div id="network-partners" class="partners section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
-                  <h2>Courses</h2>
-                  <p>Popular Courses</p>
-                </div>
+                  <h3>Network Partners</h3>
+     </div>
 
       <div class="row">
 

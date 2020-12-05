@@ -49,7 +49,7 @@
 <section id="facts">
   <div class="container" data-aos="fade-up">
     <div class="section-title">
-                <h2>Courses</h2>
+                <h2>Facts</h2>
     </div>
     <div class="row counters1">
 
