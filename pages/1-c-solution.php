@@ -1,10 +1,10 @@
 <!-- ======= Solution Section ======= -->
 <section id="solution">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h3 class="section-title">Features</h3>
-      <br><br>
-    </div>
+    <div class="section-title">
+              <h2>Features</h2>
+              <h3>We stand for</h3>
+              </div>
     <div class="row">
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
@@ -28,6 +28,11 @@
           <p class="description">Combination collection, machine-building, and upcycling spaces infrastructure framework</p>
         </div>
       </div>
+    </div>
+    <div class="section-title">
+              <h3>What we are</h3>
+      </div>
+<div class="row">
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bxs-cog'></i></div>

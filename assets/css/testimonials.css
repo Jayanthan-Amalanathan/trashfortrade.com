@@ -10,21 +10,6 @@
   font-family: "Lora";
 }
 
-.testimonials .section-header .section-title {
-  font-size: 32px;
-  color: #111;
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: 700;
-  margin-bottom: 5px;
-  padding-bottom: 20px;
-}
-
-
-.testimonials .section-header {
-  margin-bottom: 0;
-}
-
 .testimonials .testimonial-item {
   text-align: center;
   color: #fff;

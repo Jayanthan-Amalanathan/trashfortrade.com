@@ -528,22 +528,51 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 /*--------------------------------------------------------------
-# Sections
+# Sections General
 --------------------------------------------------------------*/
 section {
-  overflow: hidden;
+  padding: 80px 0;
 }
 
-/* Sections Header
---------------------------------*/
-.section-header .section-title {
-  font-size: 32px;
-  color: #111;
-  text-transform: uppercase;
+.section-bg {
+  background-color: #fafafb;
+}
+
+.section-title {
   text-align: center;
+  padding-bottom: 50px;
+}
+
+.section-title h2 {
+  font-size: 13px;
+  letter-spacing: 1px;
   font-weight: 700;
-  margin-bottom: 5px;
-  padding-bottom: 40px;
+  padding: 8px 20px;
+  margin: 0;
+  background: #f5f9fc;
+  color: #5b8c2a;
+  display: inline-block;
+  text-transform: uppercase;
+  border-radius: 50px;
+}
+
+.section-title h3 {
+  margin: 15px 0 0 0;
+  font-size: 32px;
+  font-weight: 700;
+  color: #777;
+}
+
+.section-title p {
+  margin: 15px auto 0 auto;
+  font-weight: 500;
+  color: #5c8b2a;
+}
+
+@media (min-width: 1024px) {
+  .section-title p {
+    width: 50%;
+  }
 }
 
 /*blog

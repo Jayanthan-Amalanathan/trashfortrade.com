@@ -1,10 +1,11 @@
 <!-- ======= Team Section ======= -->
 <div id="community" class="community section-bg">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h3 class="section-title">Community</h3>
-      <br><br>
-    </div>
+    <div class="section-title">
+              <h2>Services</h2>
+              <h3>Check our <span>Services</span></h3>
+              <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+            </div>
 
     <div class="row">
 

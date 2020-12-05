@@ -1,10 +1,11 @@
 <!-- ======= Funding Partners Section ======= -->
 <div id="partners" class="partners section-bg">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h3 class="section-title">Funding Partners</h3>
-<br><br>
-    </div>
+    <div class="section-title">
+              <h2>Services</h2>
+              <h3>Check our <span>Services</span></h3>
+              <p>Ut possimus qui ut temporibus culpa velit eveniet modi omnis est adipisci expedita at voluptas atque vitae autem.</p>
+            </div>
 
     <div class="row">
 
@@ -31,10 +32,10 @@
 <!-- ======= Project Partners Section ======= -->
   <div id="project-partners" class="partners section-bg">
     <div class="container" data-aos="fade-up">
-      <div class="section-header">
-        <h3 class="section-title">Project Partners</h3>
-<br><br>
-      </div>
+      <div class="section-title">
+                  <h2>Courses</h2>
+                  <p>Popular Courses</p>
+                </div>
 
       <div class="row">
 
@@ -75,10 +76,10 @@
   <!-- ======= Network Partners Section ======= -->
   <div id="network-partners" class="partners section-bg">
     <div class="container" data-aos="fade-up">
-      <div class="section-header">
-        <h3 class="section-title">Network Partners</h3>
-<br><br>
-      </div>
+      <div class="section-title">
+                  <h2>Courses</h2>
+                  <p>Popular Courses</p>
+                </div>
 
       <div class="row">
 

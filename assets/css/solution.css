@@ -1,14 +1,5 @@
 /* Services Section
 --------------------------------*/
-#solution .section-header .section-title {
-  font-size: 32px;
-  color: #111;
-  text-transform: uppercase;
-  text-align: center;
-  font-weight: 700;
-  margin-bottom: 5px;
-  padding-bottom: 20px;
-}
 
 #solution {
   background: #fff;

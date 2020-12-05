@@ -1,9 +1,9 @@
 <!-- ======= Portfolio Section ======= -->
     <section id="portfolio" class="portfolio section-bg">
       <div class="container" data-aos="fade-up">
-        <div class="section-header">
-          <h3 class="section-title">Services</h3>
-        </br>
+        <div class="section-title">
+                  <h2>Services</h2>
+                  <h3>Check our Services</span></h3>
         </div>
 
     <div class="row portfolio-container">
@@ -90,10 +90,11 @@
 </section><!-- End Portfolio Section -->
 
 <!-- ======= Testimonials Section ======= -->
-<!--<section id="testimonials" class="testimonials section-bg">
+<section id="testimonials" class="testimonials section-bg">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h3 class="section-title">Testimonials</h3>
+    <div class="section-title">
+              <h2>Testimonial</h2>
+              <h3>Check our Services</span></h3>
     </div>
 
     <div class="owl-carousel testimonials-carousel">
@@ -156,5 +157,5 @@
     </div>
 
   </div>
-</section>-->
+</section>
 <!-- End Testimonials Section -->

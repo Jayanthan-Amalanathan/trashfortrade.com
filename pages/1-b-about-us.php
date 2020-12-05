@@ -1,10 +1,10 @@
 <!-- ======= About Section ======= -->
 <section id="about">
-  <div class="section-header">
-    <h3 class="section-title">About Us</h3>
-
-  </div>
   <div class="container" data-aos="fade-up">
+    <div class="section-title">
+              <h2>Services</h2>
+              <h3>Check our Services</h3>
+             </div>
     <div class="row about-container">
 
       <div class="col-lg-6 content order-lg-1 order-2">
@@ -49,8 +49,8 @@
 <!-- ======= Facts Section ======= -->
 <section id="facts">
   <div class="container" data-aos="fade-up">
-    <div class="section-header">
-      <h3 class="section-title">Facts</h3>
+    <div class="section-title">
+                <h2>Courses</h2>
     </div>
     <div class="row counters1">
 
