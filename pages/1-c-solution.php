@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="section-title">
-              <h3>What we are</h3>
+              <h3>What We Are</h3>
       </div>
 <div class="row">
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
