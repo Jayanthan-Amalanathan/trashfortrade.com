@@ -570,9 +570,11 @@ section {
   background: #fff;
   background-size: cover;
   padding: 60px 0 40px 0;
-  border: 1px solid #000;
 }
 
+#blog .container{
+  border: 1px solid #000;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
