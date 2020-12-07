@@ -46,6 +46,7 @@
  <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
  <script type="text/javascript" src="../assets/js/main.js"></script>
  <script type="text/javascript" src="../assets/js/google-form.js"></script>
+ <script type="text/plain" cookie-consent="functionality"></script>
 
  <!-- Main CSS File -->
  <link href="../assets/css/style.css" rel="stylesheet">

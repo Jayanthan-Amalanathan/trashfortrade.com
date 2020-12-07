@@ -2,17 +2,20 @@
 <script type="text/javascript" src="//www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
 <script type="text/javascript">
 document.addEventListener('DOMContentLoaded', function () {
-cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","website_name":"trashfortrade.com","change_preferences_selector":"Change Cookies"});
+cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palette":"light","language":"en","website_name":"trashfortrade.com","change_preferences_selector":"#Change Prederences","cookies_policy_url":"https://www.freeprivacypolicy.com/live/d1d3f0ef-503a-4933-9e22-b567e84af03e"});
 });
 </script>
 
 <!-- Google Analytics -->
-<script type="text/plain" cookie-consent="strictly-necessary">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+<!-- Google Tag Manager -->
+<script type="text/plain" cookie-consent="tracking">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5QC6P57');</script>
+})(window,document,'script','dataLayer','GTM-5LTN7LM');</script>
+<!-- End Google Tag Manager -->
 <!-- end of Google Analytics-->
+
 
 <style>
   .cc_dialog .cc_dialog_headline {

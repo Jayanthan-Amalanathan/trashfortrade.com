@@ -12,6 +12,7 @@
     </div>
     <div class="credits">
       Co-created by <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/" target="_blank">Abitharani.J</a> & <a href="https://www.linkedin.com/in/jayanthan-amalanathan/" target="_blank">Jayanthan.A</a>
+      <a><?php include('3-2-cookies.php'); ?>Cookiesconsent</a> & <a href="https://www.linkedin.com/in/jayanthan-amalanathan/" target="_blank">Imprint</a>
     </div>
   </div>
 </footer><!-- End Footer -->
