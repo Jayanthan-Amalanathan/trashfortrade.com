@@ -95,17 +95,14 @@
 .service .feature-grid {
   margin-top: 30px; }
 
-.service .feature-img {
-  padding: 10px;
-  margin: 0 auto; }
-
 .service .feature-body {
   transition: 0.3s ease-in;
-  border: 1px solid #ccc;
-  background-color: #eee;
+  border: 1px solid #e6e6e6;
+  background: #fafafa;
   border-radius: 5px;
   height: 100%;
-  padding: 25px }
+  padding: 15px;
+}
 
 .service .feature-body:hover {
   background-size: cover;
@@ -113,10 +110,10 @@
   background-position: bottom right, left, right; }
 
 .service .service1:hover {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-shredded-plastic.jpg"); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-shredded-plastic.jpg"); }
 
 .service .service2:hover {
-  background: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-plastic-pellets.jpg"); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-plastic-pellets.jpg"); }
 
 .service .service3:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-machines.jpg"); }
@@ -130,12 +127,6 @@
 .service :hover .service6:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url("../media/images/services-trash-for-trade/services-trash-for-trade-custom-designs.jpg"); }
 
-.service .feature-img span {
-  font-size: 35px;
-  transform: scale(1);
-  transition: 0.3s ease;
-  color: #5c8b2a; }
-
 .service .feature-body:hover h3.feature-titel {
   color: #fff;
   transition: 0.3s ease; }
@@ -144,24 +135,26 @@
   color: #fff;
   transition: 0.3s ease; }
 
-.service .feature-body:hover div.feature-img span {
+.service .feature-body:hover {
   transform: scale(1.1);
   transition: 0.3s ease;
   color: #fff; }
 
 .service h3.feature-titel {
-  font-size: 22px;
-  line-height: 32px;
+  transition: 0.3s ease;
   font-weight: 700;
-  color: #222;
-  transition: 0.3s ease; }
+  font-size: 18px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  color: #111;
+ }
 
 .service p.feature-text {
-  color: #777;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 26px;
-  transition: 0.3s ease; }
+  transition: 0.3s ease;
+  font-size: 14px;
+  line-height: 24px;
+  color: #666666;
+ }
 
 @media (max-width: 1280px) {
   .service .feature-info {

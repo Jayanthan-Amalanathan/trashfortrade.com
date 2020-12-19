@@ -12,9 +12,6 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service1">
-              <div class="feature-img">
-                <span class="fa fa-bar-chart" aria-hidden="true"></span>
-              </div>
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Shredded Plastic</h3>
                 <p class="feature-text">Shredded Plastic is the reusable raw material derived from the collected plastic waste, used for manufacturing plastic containers, PET bottles, and PVC products
@@ -26,9 +23,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service2">
-              <div class="feature-img">
-                <span class="fa fa-laptop icon-fea" aria-hidden="true"></span>
-              </div>
+
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Plastic Pellets</h3>
                 <p class="feature-text">Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
@@ -39,9 +34,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service3">
-              <div class="feature-img">
-                <span class="fa fa-codepen" aria-hidden="true"></span>
-              </div>
+
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Upcycling machines</h3>
                 <p class="feature-text">Building machineries for upcycling processes as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
@@ -54,9 +47,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service4">
-              <div class="feature-img">
-                <span class="fa fa-modx" aria-hidden="true"></span>
-              </div>
+
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Construction materials</h3>
                 <p class="feature-text">Upcycled plastic has the capability and potential to replace the conventional and wasteful construction materials such as hollow blocks, roofing sheets, etc</p>
@@ -67,9 +58,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service5">
-              <div class="feature-img">
-                <span class="fa fa-signal icon-fea" aria-hidden="true"></span>
-              </div>
+
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Furniture</h3>
                 <p class="feature-text">The opportunity to manufacture chairs, stools, shelves and several more with the elegance and classic style to suit everyone’s interior designing preferences</p>
@@ -80,9 +69,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service6">
-              <div class="feature-img">
-                <span class="fa fa-paint-brush icon-fea" aria-hidden="true"></span>
-              </div>
+              
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Custom Design Plastics</h3>
                 <p class="feature-text">Create custom plastic designs with the Injection Molding process for mass and niche manufacturing</p>
@@ -116,7 +103,7 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="testimonial-img" alt="">
         <h3>UNDP Team</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>

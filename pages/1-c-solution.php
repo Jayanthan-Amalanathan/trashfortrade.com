@@ -37,21 +37,21 @@
         <div class="box">
           <div class="icon"><i class='bx bxs-cog'></i></div>
           <h4 class="title">An Integrated Workspace</h4>
-          <p class="description">An integrated, individual workspaces for plastic waste collection, machinery-building, and upcycling processes</p>
+        </br><p class="description">An integrated, individual workspaces for plastic waste collection, machinery-building, and upcycling processes</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-dollar-circle'></i></div>
           <h4 class="title">Upcycling Machinery Production</br></h4>
-          <p class="description">○	Machineries hand-built by the team along with local partners using easily-available raw materials</p>
+          <p class="description">Machineries hand-built by the team along with local partners using easily-available raw materials</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6" data-aos="zoom-in">
         <div class="box">
           <div class="icon"><i class='bx bx-group'></i></div>
           <h4 class="title">A Social Enterprise on the Rise</br></h4>
-          <p class="description">○	A social enterprise-oriented business model for the prolonged sustainability of the project</p>
+          <p class="description">A social enterprise-oriented business model for the prolonged sustainability of the project</p>
         </div>
       </div>
     </div>
