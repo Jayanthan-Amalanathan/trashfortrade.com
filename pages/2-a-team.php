@@ -40,9 +40,9 @@
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
         <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-jayanthan.jpg" class="img-fluid" alt="">
+            <img src="../media\images\team-trash-for-trade\team-trash-for-trade-shanjeevan.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href="https://www.linkedin.com/in/jayanthan-amalanathan/"><i class="fa fa-linkedin"></i></a>
+              <a href="https://www.linkedin.com/in/shanjeevan-amalanathan/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
