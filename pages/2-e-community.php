@@ -23,16 +23,16 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
-        <div class="member">
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
           <div class="member-img">
-            <img src="../media\images\community-trash-for-trade\community-trash-for-trade-shanjeevan.jpg" class="img-fluid" alt="">
+            <img src="../media\images\community-trash-for-trade\community-trash-for-trade-thanushkar.jpg" class="img-fluid" alt="">
             <div class="social">
-            <a href="https://www.linkedin.com/in/shanjeevan-amalanathan/"><i class="fa fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178/"><i class="fa fa-linkedin"></i></a>
             </div>
           </div>
           <div class="member-info">
-            <h4>Shanjeevan Amalanathan</h4>
+            <h4>Thanushkar Srikaran</h4>
             <span>Batticaloa</span>
           </div>
         </div>
@@ -212,21 +212,6 @@
           <div class="member-info">
             <h4>Shankarie Sritharan</h4>
             <span>Ampara</span>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
-        <div class="member" data-aos="fade-up" data-aos-delay="100">
-          <div class="member-img">
-            <img src="../media\images\community-trash-for-trade\community-trash-for-trade-thanushkar.jpg" class="img-fluid" alt="">
-            <div class="social">
-            <a href="https://www.linkedin.com/in/thanushkar-srikaran-203285178/"><i class="fa fa-linkedin"></i></a>
-            </div>
-          </div>
-          <div class="member-info">
-            <h4>Thanushkar Srikaran</h4>
-            <span>Batticaloa</span>
           </div>
         </div>
       </div>

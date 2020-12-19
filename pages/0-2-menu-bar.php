@@ -21,7 +21,7 @@
           </ul>
         </li>
         <li><a href="1-0-index.php#solution">Features</a></li>
-        <li><a href="1-0-index.php#portfolio">Services</a></li>
+        <li><a href="1-0-index.php#service">Services</a></li>
         <li><a href="1-0-index.php#blog">Blog</a></li>
         <li><a href="1-0-index.php#contact">Contact Us</a></div></li>
       </ul>

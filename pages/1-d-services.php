@@ -1,93 +1,100 @@
-<!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio section-bg">
-      <div class="container" data-aos="fade-up">
-        <div class="section-title">
-                  <h2>Services</h2>
-                  <h3>Our Products – Processed & Upcycled</h3>
-        </div>
+<!-- service Section -->
+<section id="service" class="service">
+  <div class="container" data-aos="fade-up">
 
-    <div class="row portfolio-container">
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-shredded-plastic.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>Shredded Plastic is the reusable raw material derived from the collected plastic waste, used for manufacturing plastic containers, PET bottles, and PVC products</p>
+    <div class="section-title">
+              <h2>Services</h2>
+              <h3>Our Products – Processed & Upcycled</h3>
+    </div>
+  <div class="features-main pb-5 pt-0 text-center">
+    <div class="container pb-lg-3">
+      <div class="row features">
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service1">
+              <div class="feature-img">
+                <span class="fa fa-bar-chart" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Shredded Plastic</h3>
+                <p class="feature-text">Shredded Plastic is the reusable raw material derived from the collected plastic waste, used for manufacturing plastic containers, PET bottles, and PVC products
+                </p>
+              </div>
             </div>
+          </a>
         </div>
-        <div class="member-info">
-          <h4>Shredded Plastic</h4>
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service2">
+              <div class="feature-img">
+                <span class="fa fa-laptop icon-fea" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Plastic Pellets</h3>
+                <p class="feature-text">Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service3">
+              <div class="feature-img">
+                <span class="fa fa-codepen" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Upcycling machines</h3>
+                <p class="feature-text">Building machineries for upcycling processes as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
+                <div class="hover">
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service4">
+              <div class="feature-img">
+                <span class="fa fa-modx" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Construction materials</h3>
+                <p class="feature-text">Upcycled plastic has the capability and potential to replace the conventional and wasteful construction materials such as hollow blocks, roofing sheets, etc</p>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service5">
+              <div class="feature-img">
+                <span class="fa fa-signal icon-fea" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Furniture</h3>
+                <p class="feature-text">The opportunity to manufacture chairs, stools, shelves and several more with the elegance and classic style to suit everyone’s interior designing preferences</p>
+                </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-md-6 feature-grid">
+          <a href="#url">
+            <div class="feature-body service6">
+              <div class="feature-img">
+                <span class="fa fa-paint-brush icon-fea" aria-hidden="true"></span>
+              </div>
+              <div class="feature-info mt-4">
+                <h3 class="feature-titel mb-2">Custom Design Plastics</h3>
+                <p class="feature-text">Create custom plastic designs with the Injection Molding process for mass and niche manufacturing</p>
+              </div>
+            </div>
+          </a>
         </div>
       </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-plastic-pellets.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>Plastic pellets are tiny, disc-shaped granules of plastic that provide the required uniformity of components required for the plastic recycling process.</p>
-          </div>
-        </div>
-        <div class="member-info">
-          <h4>Plastic Pellets</h4>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-machines.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>Building machineries for upcycling processes as Shredding, Injection, Extrusion, Sheet press, and Compression to create upcycled products</p>
-          </div>
-        </div>
-        <div class="member-info">
-          <h4>Upcycling machines</h4>
-        </div>
-      </div>
-
     </div>
-
-    <div class="row portfolio-container">
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-construction-materials.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>Upcycled plastic has the capability and potential to replace the conventional and wasteful construction materials such as hollow blocks, roofing sheets, etc</p>
-          </div>
-        </div>
-        <div class="member-info">
-          <h4>Construction materials</h4>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-furnitures.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>The opportunity to manufacture chairs, stools, shelves and several more with the elegance and classic style to suit everyone’s interior designing preferences</p>
-        </div>
-        </div>
-        <div class="member-info">
-          <h4>Furniture</h4>
-        </div>
-      </div>
-
-      <div class="col-lg-4 col-md-6 portfolio-item filter-app">
-        <div class="portfolio-wrap">
-          <img src="../media\images\services-trash-for-trade\services-trash-for-trade-custom-designs.jpg" class="img-fluid" alt="">
-          <div class="portfolio-info">
-            <p>Create custom plastic designs with the Injection Molding process for mass and niche manufacturing</p>
-        </div>
-        </div>
-        <div class="member-info">
-          <h4>Custom Design Plastics</h4>
-        </div>
-      </div>
-
-    </div>
-
   </div>
-</section><!-- End Portfolio Section -->
+</div>
+</section>
 
 <!-- ======= Testimonials Section ======= -->
 <section id="testimonials" class="testimonials section-bg">
