@@ -69,7 +69,7 @@
         <div class="col-lg-4 col-md-6 feature-grid">
           <a href="#url">
             <div class="feature-body service6">
-              
+
               <div class="feature-info mt-4">
                 <h3 class="feature-titel mb-2">Custom Design Plastics</h3>
                 <p class="feature-text">Create custom plastic designs with the Injection Molding process for mass and niche manufacturing</p>
@@ -93,7 +93,7 @@
     <div class="owl-carousel testimonials-carousel">
 
       <div class="testimonial-item">
-        <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="testimonial-img" alt="">
         <h3>SquareHub</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>

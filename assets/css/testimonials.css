@@ -10,6 +10,10 @@
   font-family: "Lora";
 }
 
+.testimonials .section-title{
+  padding-bottom: 20px;
+}
+
 .testimonials .testimonial-item {
   text-align: center;
   color: #fff;
@@ -17,7 +21,7 @@
 
 .testimonials .testimonial-item .testimonial-img {
   width: 130px;
-  border-radius: 50%;
+  border-radius: 10%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
 }
