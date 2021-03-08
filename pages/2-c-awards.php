@@ -13,7 +13,7 @@
           <div class="member-img">
             <img src="../media\images\awards-trash-for-trade\awards-trash-for-trade-hackdev.jpg" class="img-fluid" alt="">
             <div class="social">
-              <a href=""><i class="fa fa-chrome"></i></a>
+              <a href="https://www.youtube.com/watch?v=gAfO5RmOC8o"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -28,7 +28,7 @@
           <div class="member-img">
             <img src="../media\images\awards-trash-for-trade\climathon-trash-for-trade.png" class="img-fluid" alt="">
             <div class="social">
-              <a href=""><i class="fa fa-chrome"></i></a>
+              <a href="https://climathon.climate-kic.org/en/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
@@ -43,7 +43,7 @@
           <div class="member-img">
             <img src="../media\images\awards-trash-for-trade\hackx-trash-for-trade.png" class="img-fluid" alt="">
             <div class="social">
-              <a href=""><i class="fa fa-chrome"></i></a>
+              <a href="https://hackx.lk/"><i class="fa fa-chrome"></i></a>
             </div>
           </div>
           <div class="member-info">
