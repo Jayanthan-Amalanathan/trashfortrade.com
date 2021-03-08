@@ -23,6 +23,36 @@
         </div>
       </div>
 
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media\images\awards-trash-for-trade\climathon-trash-for-trade.png" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>Climathon</h4>
+              <span>2020</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+        <div class="member" data-aos="fade-up" data-aos-delay="100">
+          <div class="member-img">
+            <img src="../media\images\awards-trash-for-trade\hackx-trash-for-trade.png" class="img-fluid" alt="">
+            <div class="social">
+              <a href=""><i class="fa fa-chrome"></i></a>
+            </div>
+          </div>
+          <div class="member-info">
+            <h4>HackX</h4>
+              <span>2020</span>
+          </div>
+        </div>
+      </div>
+
     </div>
 
   </div>
