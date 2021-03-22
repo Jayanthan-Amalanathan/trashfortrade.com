@@ -6,7 +6,10 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
    <!-- Primary Meta Tags -->
-  <title>Trash For Trade | Plastic upcycling social enterprise | Plastic recycling social enterprise |
+  <title>Trash For Trade</title>
+
+  <meta content="" name="keywords">
+  <meta name="title" content="Trash For Trade | Plastic upcycling social enterprise | Plastic recycling social enterprise |
   Plastic upcycling | Plastic recycling | Plastic pollution | Plastic upcycling startup ideas |
   Plastic recycling startup ideas | Plastic recycling startup idea | Plastic upcycling startup idea |
   Recycled plastics Srilanka | Recycled plastic Srilanka | Upcycled plastics | Upcycled plastic | Plastic solution |
@@ -17,10 +20,7 @@
   Plastic upcycling centre Batticaloa | Plastic upcycling centre Srilanka | Plastic recycling centre Srilanka |
   Trash For Trade Batticaloa | Trash For Trade Srilanka | Trash For Trade Kallady | Recycling plastic bottles Srilanka |
   Recycling plastic bags Srilanka | Recyclable plastics Srilanka | Stop plastic pollution Srilanka | Save ocean from plastic Srilanka |
-  Recycling plastic waste Srilanka | Plastic free ocean Srilanka </title>
-
-  <meta content="" name="keywords">
-  <meta name="title" content="Trash For Trade">
+  Recycling plastic waste Srilanka | Plastic free ocean Srilanka ">
   <meta name="description" content="Trash for Trade is a Plastic Upcycling Social Business. It is a Social innovation idea developed from an Open Source community called Precious Plastic with the support of DreamSpace Academy. We develop our own machineries for the upcycling process,
   Collecting plastic waste, Shredding plastic, Recycling plastic waste, Upcycling plastic waste, Stop plastic pollution Srilanka, Stop plastic pollution,
   Recycling plastic Srilanka, Recycling PET plastic Srilanka, Recycling HDPE plastic Srilanka, Recycling PVC plastic Srilanka, Recycling LDPE plastic Srilanka,
