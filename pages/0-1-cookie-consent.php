@@ -6,15 +6,15 @@ cookieconsent.run({"notice_banner_type":"simple","consent_type":"express","palet
 });
 </script>
 
-<!-- Google Analytics -->
-<!-- Google Tag Manager -->
-<script type="text/plain" cookie-consent="tracking">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5LTN7LM');</script>
-<!-- End Google Tag Manager -->
-<!-- end of Google Analytics-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BRBXBEPWRH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BRBXBEPWRH');
+</script>
 
 
 <style>
