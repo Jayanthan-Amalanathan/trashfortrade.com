@@ -54,22 +54,22 @@
     <div class="row counters1">
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">100</span>
+        <span data-toggle="counter-up">2000</span>
         <p>Polyethylene Terephthalate</br>(PET or PETE)</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">20</span>
+        <span data-toggle="counter-up">400</span>
         <p>High-density Polyethylene<br>(HDPE)</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">5</span>
+        <span data-toggle="counter-up">100</span>
         <p>Polyvinyl Chloride<br>(PVC)</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">2</span>
+        <span data-toggle="counter-up">40</span>
         <p>Low-density Polyethylene<br>(LDPE)</p>
       </div>
 
@@ -78,17 +78,17 @@
     <div class="row counters2 justify-content-start">
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">3</span>
+        <span data-toggle="counter-up">60</span>
         <p>Polypropylene<br>(PP)</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">3</span>
+        <span data-toggle="counter-up">60</span>
         <p>Polystyrene<br>(PS)</p>
       </div>
 
       <div class="col-lg-3 col-6 text-center">
-        <span data-toggle="counter-up">12</span>
+        <span data-toggle="counter-up">240</span>
         <p>Other Types Of Plastic</p>
       </div>
 
