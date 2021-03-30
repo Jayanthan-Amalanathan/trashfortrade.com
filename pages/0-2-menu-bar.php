@@ -26,6 +26,8 @@
         <li><a href="1-0-index.php#contact">Contact Us</a></div></li>
       </ul>
     </nav>
+
+    <a href="1-0-index.php#contact" class="btn-get-started scrollto">JOIN US</a>
     <!-- #nav-menu-container -->
   </div>
 </div>
