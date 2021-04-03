@@ -27,7 +27,6 @@
       </ul>
     </nav>
 
-    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdo1b32woHQO4yR2a5uONjpOVOeObvxsCcjGDGNcAP4NxA3gA/viewform" class="get-started-btn scrollto">JOIN US</a>
     <!-- #nav-menu-container -->
   </div>
 </div>
