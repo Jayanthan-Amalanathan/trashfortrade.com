@@ -11,7 +11,7 @@
     <nav id="nav-menu-container">
       <ul class="nav-menu">
         <li class="menu-active"><a href="1-0-index.php">Home</a></li>
-        <li class="menu-has-children"><a href="1-0-index.php#abo">About Us</a>
+        <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a>
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
             <li><a href="2-0-about.php#supporters">Supporters</a></li>
