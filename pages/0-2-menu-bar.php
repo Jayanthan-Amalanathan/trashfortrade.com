@@ -11,13 +11,13 @@
     <nav id="nav-menu-container">
       <ul class="nav-menu">
         <li class="menu-active"><a href="1-0-index.php">Home</a></li>
-        <li class="menu-has-children"><a href="1-0-index.php#about">About Us</a>
+        <li class="menu-has-children"><a href="1-0-index.php#abo">About Us</a>
           <ul>
             <li><a href="2-0-about.php#team" target="_self">Team</a></li>
             <li><a href="2-0-about.php#supporters">Supporters</a></li>
             <li><a href="2-0-about.php#awards">Awards</a></li>
             <li><a href="2-0-about.php#partners">Partners</a></li>
-            <li><a href="2-0-about.php#communi">Community</a></li>
+            <li><a href="2-0-about.php#community">Community</a></li>
           </ul>
         </li>
         <li><a href="1-0-index.php#solution">Features</a></li>
