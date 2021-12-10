@@ -114,22 +114,22 @@
   background-position: bottom right, left, right; }
 
 .service .service1:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-shredded-plastic.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-shredded-plastic.jpg?raw=true'); }
 
 .service .service2:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-plastic-pellets.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-plastic-pellets.jpg?raw=true'); }
 
 .service .service3:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-machines.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-machines.jpg?raw=true'); }
 
 .service .service4:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-construction-materials.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-construction-materials.jpg?raw=true'); }
 
 .service .service5:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-furnitures.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-furnitures.jpg?raw=true'); }
 
 .service :hover .service6:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-custom-designs.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-custom-designs.jpg?raw=true'); }
 
 .service .feature-body:hover h3.feature-titel {
   color: #fff;
