@@ -61,13 +61,11 @@
             <div class="member-img">
               <img src="../media\images\supporter-trash-for-trade\supporter-trash-for-trade-janene.jpg" class="img-fluid" alt="">
               <div class="social">
-
                 <a href="https://www.linkedin.com/in/thepricinglady/"><i class="fa fa-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
               <h4>Janene Liston</h4>
-              <br>
               <span>Finance Mentor</span>
               <span>Russia</span>
             </div>
