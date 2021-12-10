@@ -163,7 +163,6 @@
           </div>
           <div class="member-info">
             <h4>Ashani Imalka Fonseka</h4>
-            <br>
             <span>Head of Partnership Development</span>
           </div>
         </div>
@@ -179,7 +178,6 @@
           </div>
           <div class="member-info">
             <h4>Ravini Hettiarachchi</h4>
-            <br>
             <span>Head of Research</span>
           </div>
         </div>
@@ -195,7 +193,6 @@
           </div>
           <div class="member-info">
             <h4>Anamigan Kumarasingam</h4>
-            <br>
             <span>Social Media Manager</span>
           </div>
         </div>

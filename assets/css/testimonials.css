@@ -117,13 +117,13 @@
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-shredded-plastic.jpg'); }
 
 .service .service2:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-plastic-pellets.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-plastic-pellets.jpg'); }
 
 .service .service3:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-machines.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-machines.jpg'); }
 
 .service .service4:hover {
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-construction-materials.jpg'); }
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('media/images/services-trash-for-trade-construction-materials.jpg'); }
 
 .service .service5:hover {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('../media/images/services-trash-for-trade-furnitures.jpg'); }

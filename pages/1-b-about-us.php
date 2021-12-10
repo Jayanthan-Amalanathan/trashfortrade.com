@@ -23,13 +23,13 @@
           <h4 class="title"><a href="">Sustainable development goals</a></h4>
           <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-6">
-              <img src="../media\images\sdg-trashfortrade\un-sdg-trash-for-trade-12.png" height="150px">
+              <img src="../media/images/sdg-trashfortrade/un-sdg-trash-for-trade-12.png" height="150px">
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
-              <img src="../media\images\sdg-trashfortrade\un-sdg-trash-for-trade-13.png" height="150px">
+              <img src="../media/images/sdg-trashfortrade/un-sdg-trash-for-trade-13.png" height="150px">
             </div>
             <div class="col-lg-4 col-md-4 col-sm-6">
-              <img src="../media\images\sdg-trashfortrade\un-sdg-trash-for-trade-14.png" height="150px">
+              <img src="../media/images/sdg-trashfortrade/un-sdg-trash-for-trade-14.png" height="150px">
             </div>
             </p>
           </div>
@@ -38,7 +38,7 @@
         </div>
 
         <div class="col-lg-6 order-lg-2 order-1" data-aos="fade-left" data-aos-delay="100">
-          <img src="../media\images\aboutus-trash-for-trade.jpg" class="img-fluid" alt="Responsive image">
+          <img src="../media/images/aboutus-trash-for-trade.jpg" class="img-fluid" alt="Responsive image">
       </div>
 
     </div>

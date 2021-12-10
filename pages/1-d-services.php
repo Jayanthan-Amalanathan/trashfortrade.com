@@ -93,7 +93,7 @@
     <div class="owl-carousel testimonials-carousel">
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-squarehub.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-squarehub.jpg" class="testimonial-img" alt="">
         <h3>SquareHub</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -103,7 +103,7 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\partners-trash-for-trade\partners-trash-for-trade-undp.jpg" class="testimonial-img" alt="">
+        <img src="../media/images/partners-trash-for-trade/partners-trash-for-trade-undp.jpg" class="testimonial-img" alt="">
         <h3>UNDP Team</h3>
         <p>
           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
@@ -113,7 +113,7 @@
       </div>
 
       <!--<div class="testimonial-item">
-        <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+        <img src="../media/images/logo-trash-for-trade.png" class="testimonial-img" alt="">
         <h3>Heminda Jayaweera</h3>
         <h4>Store Owner</h4>
         <p>
@@ -124,7 +124,7 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+        <img src="../media/images/logo-trash-for-trade.png" class="testimonial-img" alt="">
         <h3>UNDP Team</h3>
         <h4>Freelancer</h4>
         <p>
@@ -135,7 +135,7 @@
       </div>
 
       <div class="testimonial-item">
-        <img src="../media\images\logo-trash-for-trade.png" class="testimonial-img" alt="">
+        <img src="../media/images/logo-trash-for-trade.png" class="testimonial-img" alt="">
         <h3>Squarehub Team</h3>
         <h4>Entrepreneur</h4>
         <p>
