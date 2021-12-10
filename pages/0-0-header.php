@@ -52,10 +52,10 @@
 
 
  <!-- Favicons -->
- <link rel="apple-touch-icon" sizes="180x180" href="../media\images\favicon\apple-touch-icon.png">
- <link rel="icon" type="image/png" sizes="32x32" href="../media\images\favicon\favicon-32x32.png">
- <link rel="icon" type="image/png" sizes="16x16" href="../media\images\favicon\favicon-16x16.png">
- <link rel="manifest" href="../media\images\favicon\site.webmanifest">
+ <link rel="apple-touch-icon" sizes="180x180" href="../media/images/favicon/apple-touch-icon.png">
+ <link rel="icon" type="image/png" sizes="32x32" href="../media/images/favicon/favicon-32x32.png">
+ <link rel="icon" type="image/png" sizes="16x16" href="../media/images/favicon/favicon-16x16.png">
+ <link rel="manifest" href="../media/images/favicon/site.webmanifest">
 
  <!-- Google Fonts -->
  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Poppins:300,400,500,700" rel="stylesheet">
