@@ -108,34 +108,34 @@
   padding: 15px;
 }
 
-.service .feature-body:hover {
+.service .feature-body {
   background-size: cover;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: bottom right, left, right; }
 
-.service .service1:hover {
+.service .service1 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-shredded-plastic.jpg?raw=true'); }
 
-.service .service2:hover {
+.service .service2 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-plastic-pellets.jpg?raw=true'); }
 
-.service .service3:hover {
+.service .service3 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-machines.jpg?raw=true'); }
 
-.service .service4:hover {
+.service .service4 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-construction-materials.jpg?raw=true'); }
 
-.service .service5:hover {
+.service .service5 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-furnitures.jpg?raw=true'); }
 
-.service :hover .service6:hover {
+.service  .service6 {
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.74), rgba(0, 0, 0, 0.67)), url('https://github.com/dreamspace-academy/trashfortrade.com/blob/master/media/images/services-trash-for-trade-custom-designs.jpg?raw=true'); }
 
-.service .feature-body:hover h3.feature-titel {
+.service .feature-body h3.feature-titel {
   color: #fff;
   transition: 0.3s ease; }
 
-.service .feature-body:hover p.feature-text {
+.service .feature-body p.feature-text {
   color: #fff;
   transition: 0.3s ease; }
 
